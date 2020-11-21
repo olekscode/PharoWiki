@@ -10,8 +10,8 @@ BaselineOfPharoWiki >> baseline: spec [
 	spec for: #common do: [	
 		"External dependencies"
 		spec
-			baseline: 'pillar'
-			with: [ spec repository: 'github://pillar-markup/pillar/src' ].
+			baseline: 'Pillar'
+			with: [ spec repository: 'github://pillar-markup/pillar:dev-8/src' ].
 				
 		"Packages"
 		spec 
