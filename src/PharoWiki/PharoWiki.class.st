@@ -1,5 +1,5 @@
 Class {
 	#name : #PharoWiki,
 	#superclass : #Object,
-	#category : #PharoWiki
+	#category : #'PharoWiki-Models'
 }
