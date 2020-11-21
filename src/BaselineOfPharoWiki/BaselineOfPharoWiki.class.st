@@ -17,5 +17,5 @@ BaselineOfPharoWiki >> baseline: spec [
 		spec 
 			package: 'PharoWiki';
 			package: 'PharoWiki-Tests' with: [ spec requires: #('PharoWiki') ];
-			package: 'PharoWiki-Spec' with: [ spec requires: #('PharoWiki' 'pillar') ] ]
+			package: 'PharoWiki-Spec' with: [ spec requires: #('PharoWiki' 'Pillar') ] ]
 ]
